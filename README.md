@@ -54,6 +54,7 @@ OPTIONS:
 SUBCOMMANDS:
     select         Select stream link via command line
     generate       Generate an xmltv and/or playlist formatted output for all games
+    trim           output only channels that have games channels that have feeds to the xmltv.
     play           Play a game with VLC, requires StreamLink and VLC
     record         Record a game, requires StreamLink
     cast           Cast a game, requires StreamLink and VLC
